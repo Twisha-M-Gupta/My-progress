@@ -1,0 +1,14 @@
+body
+{
+    background: linear-gradient(#f58ead 0%, #de92f7 100%);
+    text-align: center;
+}
+#Slideshow
+{
+    background-color: aqua;
+}
+#Slideshow img
+{
+    height: 500px;
+    width: 500px;
+}
